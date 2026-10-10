@@ -1,0 +1,32 @@
+VETERINARIA CHICAS — versión adaptada
+
+La plantilla Clinic fue transformada a una web veterinaria en español.
+
+Páginas principales:
+- index.html: inicio
+- about.html: nosotros
+- services.html: servicios
+- service-details.html: detalles
+- doctors.html: equipo
+- gallery.html: mascotas
+- faq.html: preguntas frecuentes
+- appointment.html: solicitar cita
+- contact.html: contacto
+
+IMPORTANTE ANTES DE PUBLICAR:
+1. Teléfono configurado: 8838-4918.
+2. Agregar la dirección real de la clínica.
+3. Correo configurado para contacto y formularios: padillafarell18@gmail.com.
+4. Los formularios de cita/contacto son demostrativos; visualmente funcionan, pero no envían datos todavía.
+5. Las imágenes externas de mascotas usan URLs de Unsplash y necesitan conexión a Internet. Puedes sustituirlas por fotos propias dentro de assets/img/.
+6. Actualiza nombres/fotos del equipo y testimonios cuando tengas datos reales.
+
+Archivos nuevos de estilo/lógica:
+- assets/css/veterinaria.css
+- assets/js/veterinaria.js
+
+
+FORMULARIOS REALES
+------------------
+Los formularios de Contacto y Solicitar cita envían los datos mediante FormSubmit a padillafarell18@gmail.com.
+IMPORTANTE: al hacer el primer envío, FormSubmit enviará un correo de activación a esa cuenta. Hay que abrirlo y confirmar una sola vez. Después, los envíos de la web llegarán normalmente al correo.
